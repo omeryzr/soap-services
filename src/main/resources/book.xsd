@@ -1,6 +1,6 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-           xmlns:tns="https://restfulapi.net/soap-vs-rest-apis/"
-           targetNamespace="https://restfulapi.net/soap-vs-rest-apis/"
+           xmlns:tns="https://omeryazir.com/soap-example/"
+           targetNamespace="https://omeryazir.com/soap-example/"
            elementFormDefault="qualified">
 
     <xs:element name="getBookRequest">
